@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{TITLE}}</title>
+    <style>{{STYLES}}</style>
+</head>
+<body>
+    <div class="container">{{CONTENT}}</div>
+    <script>
+        const colors = ['#ffff00', '#00ffff', '#ff00ff', '#00ff00', '#ff0000'];
+        {{SCRIPTS}}
+    </script>
+</body>
+</html>
